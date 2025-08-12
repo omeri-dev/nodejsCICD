@@ -1,0 +1,12 @@
+{
+  "name": "NodeJS-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Docker build and push",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "omeri-dev",
+  "license": "MIT"
+}
+
